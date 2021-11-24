@@ -1,5 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Montserrat:wght@500&display=swap');
 .App {
   text-align: center;
+  margin-top: 50px;
+  font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
 }
 
 .App-logo {
@@ -35,4 +39,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.btn-primary{
+  background-color: #1F2937 !important;
+  border: none !important;
 }
